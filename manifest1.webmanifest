@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "description": "Jamaath Management",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Jamaath",
+  "short_name": "Jamaath",
+  "start_url": "index.php"
+}
